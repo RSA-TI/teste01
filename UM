@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Empresa de Tecnologia e Segurança da Informação</title>
+</head>
+<body>
+	<header>
+		<h1>Empresa de Tecnologia e Segurança da Informação</h1>
+		<nav>
+			<ul>
+				<li><a href="#servicos">Serviços</a></li>
+				<li><a href="#contato">Contato</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section id="quem-somos">
+			<h2>Quem Somos</h2>
+			<p>A Empresa de Tecnologia e Segurança da Informação está no mercado desde 2008 e é especializada em soluções de segurança cibernética para empresas de todos os tamanhos. Nossa equipe de profissionais altamente qualificados oferece soluções personalizadas para proteger seus dados e garantir a continuidade dos seus negócios.</p>
+		</section>
+		<section id="servicos">
+			<h2>Nossos Serviços</h2>
+			<ul>
+				<li>Consultoria em Segurança da Informação</li>
+				<li>Gerenciamento de Identidade e Acesso</li>
+				<li>Detecção e Resposta a Ameaças</li>
+				<li>Cibersegurança Industrial</li>
+			</ul>
+		</section>
+		<section id="contato">
+			<h2>Entre em Contato</h2>
+			<p>Para solicitar um orçamento ou obter mais informações sobre nossos serviços, entre em contato conosco pelo e-mail: <a href="mailto:contato@empresa.com.br">contato@empresa.com.br</a>.</p>
+		</section>
+	</main>
+	<footer>
+		<p>Empresa de Tecnologia e Segurança da Informação - Todos os direitos reservados</p>
+	</footer>
+</body>
+</html>
